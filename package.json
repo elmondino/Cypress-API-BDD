@@ -11,8 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@badeball/cypress-cucumber-preprocessor": "^14.0.0",
-    "chai-json-schema": "^1.5.1",
-    "cypress": "^11.2.0",
-    "cypress-plugin-api": "^2.6.1"
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.1.5",
+    "cypress": "^11.2.0"
   }
 }
